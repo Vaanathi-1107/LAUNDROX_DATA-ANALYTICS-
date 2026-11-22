@@ -1,0 +1,14 @@
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.db
+.vscode/
+.streamlit/secrets.toml
+
+Laundry_Customer.csv
+Laundry_Customer_Cleaned.csv
+
+laundrox_orders.csv
+laundrox_customers.csv
